@@ -4,3 +4,4 @@
 4. Add URL Scheme with reverse client id.
 5. Add apple sign in capability
 6. Add firebase sign in templates
+7. Change security rules
